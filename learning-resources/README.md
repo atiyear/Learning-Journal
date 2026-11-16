@@ -1,9 +1,9 @@
-#  Code & Projects
+#  Learning & Educational Resources
 
-Welcome to my collection of programming projects, coding experiments, and practical exercises.
+A space where I document my learning journey and collect valuable knowledge along the way.
 
-This section showcases my hands-on work, problem-solving journey, and continuous growth as a developer.
+This section includes technical notes, learning summaries, useful resources, and personal insights from exploring different programming concepts and technologies.
 
-From small experiments to more complete projects, every piece of code is an opportunity to learn, build, and improve.
+I believe that documenting what we learn helps us understand it better and makes knowledge easier to revisit and share.
 
-**Build. Experiment. Improve.**
+**Learn. Document. Grow.**
