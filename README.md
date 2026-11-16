@@ -1,4 +1,4 @@
-# Learning-Journal
+Code • Learn • Teach
 # 👋 Welcome to My Learning & Teaching Space
 
 > **Code. Learn. Understand. Teach.**
